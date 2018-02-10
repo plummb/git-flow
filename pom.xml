@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.plummb</groupId>
     <artifactId>git-flow</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
     <name>Git Flow Verification</name>
     <packaging>pom</packaging>
     <distributionManagement>
